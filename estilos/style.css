@@ -43,7 +43,7 @@ section#login {
 }
 
 section#login > div#imagem {
-     display: flexbox;
+     display: block;
      background-color: #5f2c82 url(../imagens/obzar.jpg) no-repeat;
      background-size: cover;
      background-position: left bottom;
