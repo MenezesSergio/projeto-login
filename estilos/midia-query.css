@@ -16,6 +16,8 @@ Grandes telas: acima de 1200px
 @media screen and (min-width: 1200px) {
     section#login {
         flex-direction: column;
+        width: 100vw;
+        height: 80vh; 
     }  
 
     section#login > div#imagem,
